@@ -26,10 +26,16 @@ Dataset Credit: Minhaj Abdul Rahim
 
 ## Summary and suggestions (CONCLUSION)
 
-#### 1. Descriptive analysis
+#### 1. Descriptive Analysis
 
 - The average monthly consumption is 341.3 times.
 - The average monthly consumption amount is $ 207788.
 - The Customer unit price is $ 208.
 
 #### 2. Exploratory Data Analysis
+
+Monthly sales conclusion: March the peak sales season.
+
+<p align="center">
+  <img src="monthly_sales.png" width="700" height="400">
+</p> <br>
