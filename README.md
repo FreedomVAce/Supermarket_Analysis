@@ -39,3 +39,15 @@ Monthly sales conclusion: March the peak sales season.
 <p align="center">
   <img src="monthly_sales.png" width="800" height="400">
 </p> <br>
+
+Weekly sales conclusion: Overall, the peak sales on Monday, and Friday match people's weekly work cycle, and the lowest sales on Sunday, probably because the customer want to rest at home and prepare to work on Monday.
+
+<p align="center">
+  <img src="weekday_sales.png" width="800" height="400">
+</p> <br>
+
+Daily sales conclusion: There will be obvious peaks and troughs on the whole, typical peaks are periodic within a certain error range, and the peak points can be extracted separately, query the date of the day, marketing plans, holidays and other factors to analyze and explore sales The reason for the significant increase in volume.
+
+<p align="center">
+  <img src="daily_sales.png" width="800" height="400">
+</p> <br>
