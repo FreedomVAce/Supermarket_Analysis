@@ -49,5 +49,5 @@ Weekly sales conclusion: Overall, the peak sales on Monday, and Friday match peo
 Daily sales conclusion: There will be obvious peaks and troughs on the whole, typical peaks are periodic within a certain error range, and the peak points can be extracted separately, query the date of the day, marketing plans, holidays and other factors to analyze and explore sales The reason for the significant increase in volume.
 
 <p align="center">
-  <img src="daily_sales.png" width="1100" height="400">
+  <img src="daily_sales.png" width="1200" height="400">
 </p> <br>
