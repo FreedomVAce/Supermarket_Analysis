@@ -26,10 +26,10 @@ Dataset Credit: Minhaj Abdul Rahim
 
 ## Summary and suggestions (CONCLUSION)
 
-1. Descriptive analysis
+### 1. Descriptive analysis
 
 - The average monthly consumption is 341.3 times.
 - The average monthly consumption amount is $ 207788.
 - The Customer unit price is $ 208.
 
-2. Exploratory Data Analysis
+### 2. Exploratory Data Analysis
