@@ -7,9 +7,9 @@
 Image Credit: https://www.deviantart.com/oraclesaturn/art/Market-Background-659914879
 
 ## Introduction
-A supermarket is self-service shop offering a wide variety of item like sporting, clothing, books, furniture, groceries and fashion. It is larger and has a wider selection than earlier grocery stores, but is smaller and more limited in the range of merchandise than a hypermarket.
+A supermarket is a self-service shop offering a wide variety of items like sporting, clothing, books, furniture, groceries, and fashion. It is larger and has a wider selection than earlier grocery stores, but is smaller and more limited in the range of merchandise than a hypermarket.
 
-Here I have used different techniques to viaualize the data set of supermarket. <br>
+Here I have used different techniques to visualize the data set of the supermarket. <br>
 What will you discover from this analysis?
 
 - Average monthly Consumption
@@ -40,14 +40,26 @@ Monthly sales conclusion: March the peak sales season.
   <img src="monthly_sales.png" width="800" height="400">
 </p> <br>
 
-Weekly sales conclusion: Overall, the peak sales on Monday, and Friday match people's weekly work cycle, and the lowest sales on Sunday, probably because the customer want to rest at home and prepare to work on Monday.
+Weekly sales conclusion: Overall, the peak sales on Monday, and Friday match people's weekly work cycle, and the lowest sales on Sunday, probably because the customer wants to rest at home and prepare to work on Monday.
 
 <p align="center">
   <img src="weekday_sales.png" width="800" height="400">
 </p> <br>
 
-Daily sales conclusion: There will be obvious peaks and troughs on the whole, typical peaks are periodic within a certain error range, and the peak points can be extracted separately, query the date of the day, marketing plans, holidays and other factors to analyze and explore sales The reason for the significant increase in volume.
+Daily sales conclusion: There will be obvious peaks and troughs, on the whole, typical peaks are periodic within a certain error range, and the peak points can be extracted separately, query the date of the day, marketing plans, holidays, and other factors to analyze and explore sales.
 
 <p align="center">
   <img src="daily_sales.png" width="1200" height="400">
+</p> <br>
+
+Top Category by Volume: Sporting and Clothing 
+
+<p align="center">
+  <img src="sales_volume.png" width="800" height="400">
+</p> <br>
+
+Top Category by Sales: Sporting and Books 
+
+<p align="center">
+  <img src="total_sales.png" width="800" height="400">
 </p> <br>
