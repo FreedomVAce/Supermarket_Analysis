@@ -24,7 +24,7 @@ The dataset is very useful for beginners and novice number crunchers looking to 
 Dataset link: https://www.kaggle.com/marahim20/sales-dataset-of-supermarket <br>
 Dataset Credit: Minhaj Abdul Rahim
 
-## Summary and suggestions (CONCLUSION)
+## Summary and Suggestions 
 
 #### 1. Descriptive Analysis
 
