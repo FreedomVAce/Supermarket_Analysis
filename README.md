@@ -69,3 +69,25 @@ Do high-selling products have higher sales? It can be seen that it is not necess
 <p align="center">
   <img src="top_sales.png" width="800" height="400">
 </p> <br>
+
+#### 3. Conclusion
+
+- March is peak sale season, and we can reserve more inventory in advance for products with higher sales.
+- Welfare events are held during the low sales volume from Tuesday to Wednesday and Sunday to attract passengers.
+- It is a great treasure to further analyze the peak of daily sales and explore the monthly Sales for the increase in sales.
+- For products with high sales but low profits, it can be used as a drainage product to attract passengers.
+
+## Tools and Packages that I used for this project:
+
+#### Modeling/Machine Learning
+* Numpy
+* Pandas
+
+#### Data visualization:
+* Matplotlib
+
+## Completion Time
+* 1 week
+
+Feedback is always welcome ~~~ <br>
+LinkedIn: https://www.linkedin.com/in/austinykw/
