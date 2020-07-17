@@ -64,7 +64,7 @@ Top Category by Sales: Sporting and Books
   <img src="total_sales.png" width="800" height="400">
 </p> <br>
 
-Do high-selling products have higher sales? It can be seen that it is not necessarily that some categories have weak sales but higher sales. Categories with high sales volume but low profits can be used as drainage products to increase customer unit prices.
+Do high-selling products have higher sales? It can be seen that it is not necessarily that some categories have weak sales but higher sales volume. Categories with high sales volume but low profits can be used as drainage products to increase customer unit prices.
 
 <p align="center">
   <img src="top_sales.png" width="800" height="400">
