@@ -37,5 +37,5 @@ Dataset Credit: Minhaj Abdul Rahim
 Monthly sales conclusion: March the peak sales season.
 
 <p align="center">
-  <img src="monthly_sales.png" width="700" height="400">
+  <img src="monthly_sales.png" width="500" height="400">
 </p> <br>
